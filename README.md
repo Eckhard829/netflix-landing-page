@@ -1,45 +1,53 @@
-# Netflix Landing Page Clone
+# Netflix Landing Page Clone  
 
-![Netflix Clone Preview](https://netf1ixclone-eckhard.netlify.app/preview.png)
+A simple and responsive **Netflix Landing Page Clone** built using **HTML & CSS
 
-## 🚀 Live Demo
+---
 
-🔗 [View Live Site](https://netf1ixclone-eckhard.netlify.app/)
+## Features  
 
-## 📌 About
+✅ Responsive design (mobile-friendly)    
+✅ Styled using CSS Flexbox/Grid  
 
-This is a Netflix landing page clone built with modern web technologies to replicate the sleek and responsive design of Netflix's official homepage.
+---
 
-## 🛠️ Technologies Used
+## Technologies Used  
 
-- HTML
-- CSS
+- **HTML** – Structure of the page  
+- **CSS** – Styling and layout  
 
-## 📂 Repository
+---
 
-🔗 [GitHub Repository](https://github.com/Eckhard829/netflix-landing-page)
+## How to Use  
 
-## 📷 Screenshots
-
-![Netflix Clone Screenshot](https://netf1ixclone-eckhard.netlify.app/screenshot.png)
-
-## 🚀 Getting Started
-
-### 🔽 Clone the Repository
+Clone the repository:  
 ```bash
 git clone https://github.com/Eckhard829/netflix-landing-page.git
+```
+Navigate to the project folder:  
+```bash
 cd netflix-landing-page
 ```
+Open `index.html` in your browser.  
 
-### 🏃‍♂️ Run Locally
-Simply open `index.html` in your browser.
+---
 
-## 🎯 Features
+## Live Demo  
 
-- Responsive UI
-- Netflix-inspired design
-- Smooth animations
+🔗 [View Live Demo](https://netf1ixclone-eckhard.netlify.app/)  
 
-## 📝 License
+---
 
-This project is for educational purposes only.
+## Customization  
+
+Want to modify the design?  
+- Edit **`style.css`** for styling changes.  
+- Modify **`index.html`** for content updates.  
+---
+
+## License  
+
+This project is for educational purposes only. **No copyright infringement intended.**  
+
+---
+
