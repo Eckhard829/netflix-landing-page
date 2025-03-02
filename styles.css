@@ -538,7 +538,7 @@ details[open] .faq-question::after {
     margin-right: 5px;
     color: #999999;
 }
-
+ /* language selection */
 .language select option {
     background-color: black;
     color: #999999;
